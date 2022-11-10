@@ -1,0 +1,19 @@
+.listitem {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  margin-left: 5%;
+}
+.tabhead {
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  color: white;
+}
+.tabbtn {
+  background-color: transparent;
+  border: 0px;
+  color: goldenrod;
+}
+.active-tab {
+  border-bottom: 2px solid gold;
+}
